@@ -10,8 +10,8 @@
 	<?php require_once 'config.php'; ?>
 	<h2>Pagina prinicpal</h2>
 	<nav>
-		<a href="views/contact.php">Products</a>
-		<a href="views/products.php">Contact</a>
+		<a href="views/products.php">Products</a>
+		<a href="views/contact.php">Contact</a>
 	</nav>
 </body>
 </html>
